@@ -1,10 +1,11 @@
-# ** Credit Card Fraud Detection**
+# Credit Card Fraud Detection
 
 Anonymized credit card transactions labeled as fraudulent or genuine
 
-Link to Kaggle Dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 # **About Dataset**
+
+Link to Kaggle Dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 # Context
 
